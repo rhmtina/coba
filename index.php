@@ -1,5 +1,5 @@
 <?php
-echo ("RAHMATINA RAHMATINA");
-echo ("182243");
+echo ("RAHMATINA RAHMATINA<br>");
+echo ("182243<br>");
 echo ("F");
 ?>
